@@ -1,0 +1,61 @@
+.container {
+    width: 100%;
+    background-color: black;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+    align-content: center;
+}
+
+.subClass {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: yellow;
+}
+
+.subClass1 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: green;
+}
+
+.subClass2 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: green;
+}
+
+.subClass3 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: green;
+
+}
+
+.subClass4 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: green;
+
+}
+
+.subClass5 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: green;
+
+}
+
+.subClass6 {
+    width: 50px;
+    height: 50px;
+    border-radius: 50px;
+    background-color: red;
+}
